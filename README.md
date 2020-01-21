@@ -3,6 +3,8 @@
 ### A simple DDos botnet
 > Is under development
 
+## OS Supported
+
 ## Usage
 
 ### Install the dependencies
