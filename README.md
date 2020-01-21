@@ -29,3 +29,5 @@
 
 ## Server based on: 
 ### https://gist.github.com/schedutron/cd925247bfc4f8ae7930bbd99984a441#file-chat_serv-py
+
+> This tool has created only for educational purposes.
