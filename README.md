@@ -4,6 +4,9 @@
 > Is under development
 
 ## OS Supported
+- Windows
+- Linux (Kali Linux) (Other distributions probably will works)
+- Other operating systems have not tested
 
 ## Usage
 
